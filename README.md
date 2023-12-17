@@ -2,7 +2,7 @@
 
 <b>Link to project</b>: https://bookstore-umber-rho.vercel.app/
 
-<ul> <b>Technical stack</b>:
+<b>Technical stack</b>: <ul> 
     <li>Main technology -- <b>React, Redux</b></li>
     <li>Requests -- <b>Axios</b></li>
     <li>Css -- <b>styled-components, MUI</b></li>
