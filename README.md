@@ -1,7 +1,8 @@
-Getting Started
+## Getting Started
 
 To run the development server:
 
+```bash
 npm run dev
 # or
 yarn dev
@@ -9,12 +10,14 @@ yarn dev
 pnpm dev
 # or
 bun dev
-Technical stack
+```
 
-main technology -- React, Redux
-requests -- Axios
-css -- styled-component, MUI
-working with forms -- react-hook-form
+# Technical stack
 
+<ul>
+    <li>Main technology -- <b>React, Redux</b></li>
+    <li>Requests -- <b>Axios</b></li>
+    <li>Css -- <b>styled-components, MUI</b></li>
+    <li>Working with forms -- <b>react-hook-form</b></li>
+</ul>
 
-Deploy
