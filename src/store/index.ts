@@ -19,6 +19,7 @@ const rootReducer = combineReducers({
     isBurgerOpened: burgerReducer
 });
 
+// @ts-ignore
 export const store = createStore(rootReducer, composeWithDevTools(applyMiddleware(thunk)));
 
 export type RootState = ReturnType<typeof rootReducer>;
